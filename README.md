@@ -36,26 +36,6 @@ All wrapped in a clean notebook-style design with handwritten font and ink-style
 • Local movie data  of currently 50+ movies and there overviews
 • Custom Painter for Hangman drawing
 • Notebook font (PatrickHand-Regular.ttf)
-
--------------------------------------------
-📂 FOLDER STRUCTURE
--------------------------------------------
-lib/
-├── models/
-│   └── movie_model.dart         -> Movie model class
-├── services/
-│   └── movie_services.dart      -> Logic to fetch movie (local or API)
-├── widgets/
-│   ├── hangman_painter.dart     -> Custom painter for hangman drawing
-│   └── letter_button.dart 
-│   └── score_card.dart 
-├── screens/
-│   ├── home_screen.dart         -> Home screen with Start button
-│   └── game_screen.dart         -> Main game logic and UI
-├── assets/
-│   ├── notebook_bg.png          -> Background image (notebook style)
-│   └── fonts/                   -> Handwritten font
-└── main.dart
 -------------------------------------------
 🛠 HOW TO RUN
 -------------------------------------------
