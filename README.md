@@ -36,22 +36,6 @@ All wrapped in a clean notebook-style design with handwritten font and ink-style
 • Local movie data  of currently 50+ movies and there overviews
 • Custom Painter for Hangman drawing
 • Notebook font (PatrickHand-Regular.ttf)
--------------------------------------------
-🛠 HOW TO RUN
--------------------------------------------
-1. Clone the repository:
-   git clone https://github.com/your-username/malayalam-hangman-game.git
-
-2. Navigate into the folder:
-   cd malayalam-hangman-game
-
-3. Install packages:
-   flutter pub get
-
-4. Run the app:
-   flutter run
-
-NOTE: Make sure assets and fonts are properly added in `pubspec.yaml`
 
 -------------------------------------------
 🎨 DESIGN THEME
